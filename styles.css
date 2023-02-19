@@ -85,7 +85,7 @@ header, footer {
   width: 100%;
 }
 
-.header-section {
+.hero-section {
   margin-top: 5rem;
   /* z-index: 1;
   position: relative; */
@@ -99,7 +99,7 @@ header, footer {
   height: 20rem;
 }
 
-.header-section-inside {
+.hero-section-inside {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
